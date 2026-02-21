@@ -4,7 +4,7 @@
 <h3 align="center">Code. Break. Build. Repeat.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&lines=Future+Security+Engineer;42+Student;C+%7C+Linux+%7C+Low-Level+Programming;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&lines=42+Student;C+%7C+Linux+%7C+Low-Level+Programming;Always+Learning+Always+Building" />
 </p>
 
 
