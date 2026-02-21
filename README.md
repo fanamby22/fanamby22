@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">⚡ Mar.celo12 ⚡</h1>
 <h3 align="center">Code. Break. Build. Repeat.</h3>
@@ -21,36 +20,3 @@
   <img src="https://img.shields.io/badge/Focus-Systems%20Programming-00ff00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C-000000?style=for-the-badge&logo=c" />
 </p>
-
----
-
-## ▌WHOAMI
-
-```bash
-$ whoami
-fanamby22
-
-$ uname -a
-Linux • Systems Programming • Memory & Processes
-
-$ status
-Learning how the machine really works.
-
----
-
-## 🧠 About Me
-
-```bash
-> whoami
-fanamby22
-
-> location
-Madagascar 🌍
-
-> current_focus
-Systems Programming
-Shell & Process Management
-Memory & Low-Level Concepts
-
-> mindset
-"Understand the machine. Control the machine."
